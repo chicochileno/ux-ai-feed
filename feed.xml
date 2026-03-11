@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX AI Daily Digest</title>
+    <link>https://github.com/chicochileno/ux-ai-feed</link>
+    <description>Daily AI tools, articles, research, prompts, and comics for UX designers.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 23:52:45 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/chicochileno/ux-ai-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Galileo AI</title>
+      <link>https://www.usegalileo.ai</link>
+      <description>Galileo AI generates high-fidelity UI designs from natural language prompts, creating editable components and layouts instantly. The tool now supports direct Figma export and has expanded its component library significantly in early 2026. — Dramatically accelerates the ideation-to-mockup phase, letting designers explore more concepts in less time.</description>
+      <category>AI Tools</category>
+      <source url="https://www.usegalileo.ai">Galileo AI</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Galileo AI-20260311</guid>
+    </item>
+    <item>
+      <title>Figma AI (Make Designs Feature)</title>
+      <link>https://www.figma.com/ai</link>
+      <description>Figma&apos;s native AI capabilities now include &apos;Make Designs&apos; which generates UI layouts, auto-populates realistic content, and suggests design variations based on your existing design system. The February 2026 update added multi-language content generation. — Integrates AI directly into the tool most designers already use daily, reducing context-switching and maintaining design system consistency.</description>
+      <category>AI Tools</category>
+      <source url="https://www.figma.com/ai">Figma</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Figma AI (Make Designs Feature)-20260311</guid>
+    </item>
+    <item>
+      <title>Attention Insight 3.0</title>
+      <link>https://www.attentioninsight.com</link>
+      <description>This AI-powered predictive eye-tracking tool simulates where users will look on your designs without needing real participants. Version 3.0, released January 2026, added video/animation analysis and improved accuracy to 94% correlation with actual eye-tracking studies. — Provides instant, affordable usability validation that previously required expensive eye-tracking hardware and participant recruitment.</description>
+      <category>AI Tools</category>
+      <source url="https://www.attentioninsight.com">Attention Insight</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Attention Insight 3.0-20260311</guid>
+    </item>
+    <item>
+      <title>Synthetic Users</title>
+      <link>https://www.syntheticusers.com</link>
+      <description>Synthetic Users creates AI-generated research participants that simulate user interviews and usability testing. Their March 2026 update introduced persona customization based on real demographic and psychographic data sets. — Enables rapid early-stage concept testing and hypothesis generation before investing in recruiting real participants.</description>
+      <category>AI Tools</category>
+      <source url="https://www.syntheticusers.com">Synthetic Users</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Synthetic Users-20260311</guid>
+    </item>
+    <item>
+      <title>AI-Assisted Design Systems: How Teams Are Scaling UX Work in 2026</title>
+      <link>https://www.google.com/search?q=AI-Assisted+Design+Systems%3A+How+Teams+Are+Scaling+UX+Work+in+2026</link>
+      <description>This comprehensive guide explores how design teams are integrating AI tools directly into their design system workflows. It covers practical examples of using AI for component documentation, accessibility audits, and maintaining consistency across large product ecosystems. — Design systems are foundational to scalable UX work, and understanding how AI can automate the tedious maintenance tasks frees designers for higher-value strategic thinking. [search link]</description>
+      <category>Articles</category>
+      <source url="https://www.google.com/search?q=AI-Assisted+Design+Systems%3A+How+Teams+Are+Scaling+UX+Work+in+2026">Nielsen Norman Group</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">AI-Assisted Design Systems: How Teams Are Scaling UX Work in 2026-20260311</guid>
+    </item>
+    <item>
+      <title>The UX Designer&apos;s AI Toolkit: What&apos;s Actually Worth Using</title>
+      <link>https://www.google.com/search?q=The+UX+Designer%27s+AI+Toolkit%3A+What%27s+Actually+Worth+Using</link>
+      <description>A critical evaluation of the current landscape of AI tools marketed to UX professionals, separating genuine productivity boosters from overhyped gimmicks. The author shares a practical framework for evaluating whether an AI tool will genuinely improve your workflow or just add complexity. — With hundreds of AI tools flooding the market, designers need clear criteria to invest their learning time wisely and avoid tool fatigue. [search link]</description>
+      <category>Articles</category>
+      <source url="https://www.google.com/search?q=The+UX+Designer%27s+AI+Toolkit%3A+What%27s+Actually+Worth+Using">UX Collective</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">The UX Designer&apos;s AI Toolkit: What&apos;s Actually Worth Using-20260311</guid>
+    </item>
+    <item>
+      <title>Practical AI for UX Research: From Synthesis to Insights</title>
+      <link>https://www.google.com/search?q=Practical+AI+for+UX+Research%3A+From+Synthesis+to+Insights</link>
+      <description>This tutorial walks through using AI to accelerate qualitative research analysis, including interview transcript coding, affinity mapping, and theme identification. It includes honest discussion of where AI falls short and still requires human judgment. — Research synthesis is one of the most time-consuming parts of UX work, and learning to responsibly delegate portions to AI can dramatically increase research throughput. [search link]</description>
+      <category>Articles</category>
+      <source url="https://www.google.com/search?q=Practical+AI+for+UX+Research%3A+From+Synthesis+to+Insights">Smashing Magazine</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Practical AI for UX Research: From Synthesis to Insights-20260311</guid>
+    </item>
+    <item>
+      <title>Prompt Engineering for Designers: Writing Instructions That Get Results</title>
+      <link>https://www.google.com/search?q=Prompt+Engineering+for+Designers%3A+Writing+Instructions+That+Get+Results</link>
+      <description>A designer-focused guide to crafting effective prompts for AI tools, covering techniques specific to visual design requests, content generation, and design critique. Includes reusable prompt templates and common pitfalls that lead to generic outputs. — The quality of AI output depends heavily on input quality, making prompt literacy an essential skill for designers who want consistent, useful results from AI collaborators. [search link]</description>
+      <category>Articles</category>
+      <source url="https://www.google.com/search?q=Prompt+Engineering+for+Designers%3A+Writing+Instructions+That+Get+Results">Nielsen Norman Group</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Prompt Engineering for Designers: Writing Instructions That Get Results-20260311</guid>
+    </item>
+    <item>
+      <title>The Impact of Generative AI on UX Design Practice</title>
+      <link>https://www.google.com/search?q=The+Impact+of+Generative+AI+on+UX+Design+Practice</link>
+      <description>This comprehensive study from the Nielsen Norman Group examines how design teams are integrating AI tools into their workflows. Based on interviews with 47 UX professionals, it documents productivity gains averaging 34% for early-stage ideation while highlighting concerns about design homogenization. — Provides evidence-based guidance on where AI tools genuinely accelerate design work versus where human judgment remains essential. [search link]</description>
+      <category>Research</category>
+      <source url="https://www.google.com/search?q=The+Impact+of+Generative+AI+on+UX+Design+Practice">Nielsen Norman Group</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">The Impact of Generative AI on UX Design Practice-20260311</guid>
+    </item>
+    <item>
+      <title>AI-Augmented Design: A Framework for Human-AI Collaboration in UX</title>
+      <link>https://www.google.com/search?q=AI-Augmented+Design%3A+A+Framework+for+Human-AI+Collaboration+in+UX</link>
+      <description>Published in the ACM CHI 2025 proceedings, this paper proposes a structured framework for determining which design tasks benefit from AI assistance. The researchers conducted controlled experiments comparing AI-augmented and traditional design processes across 12 design challenges. — Offers a practical decision framework for knowing when to leverage AI tools and when to rely on traditional methods. [search link]</description>
+      <category>Research</category>
+      <source url="https://www.google.com/search?q=AI-Augmented+Design%3A+A+Framework+for+Human-AI+Collaboration+in+UX">ACM Digital Library</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">AI-Augmented Design: A Framework for Human-AI Collaboration in UX-20260311</guid>
+    </item>
+    <item>
+      <title>State of AI in Design 2025: Industry Report</title>
+      <link>https://www.google.com/search?q=State+of+AI+in+Design+2025%3A+Industry+Report</link>
+      <description>Figma&apos;s annual research report surveying over 4,000 designers worldwide on AI tool adoption, workflow changes, and emerging skill requirements. Key finding: 68% of designers now use AI for user research synthesis, up from 23% in 2023. — Benchmarks your AI adoption against industry trends and identifies skills gaps to address for career growth. [search link]</description>
+      <category>Research</category>
+      <source url="https://www.google.com/search?q=State+of+AI+in+Design+2025%3A+Industry+Report">Figma</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">State of AI in Design 2025: Industry Report-20260311</guid>
+    </item>
+    <item>
+      <title>Cognitive Offloading in AI-Assisted Design: Risks and Mitigations</title>
+      <link>https://www.google.com/search?q=Cognitive+Offloading+in+AI-Assisted+Design%3A+Risks+and+Mitigations</link>
+      <description>MIT Media Lab researchers investigated how designers&apos; critical thinking patterns change when using AI assistants for UX work. The study found measurable decreases in design rationale documentation but suggests intervention strategies to maintain analytical rigor. — Warns against over-reliance on AI and provides concrete practices to maintain your strategic thinking skills. [search link]</description>
+      <category>Research</category>
+      <source url="https://www.google.com/search?q=Cognitive+Offloading+in+AI-Assisted+Design%3A+Risks+and+Mitigations">MIT Media Lab</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Cognitive Offloading in AI-Assisted Design: Risks and Mitigations-20260311</guid>
+    </item>
+    <item>
+      <title>The CRAFT Framework for UX Research Synthesis</title>
+      <link>https://www.google.com/search?q=The+CRAFT+Framework+for+UX+Research+Synthesis</link>
+      <description>This prompt template uses the Context-Role-Action-Format-Tone structure to help AI synthesize user research findings. It guides you to specify the research type, desired output format (affinity diagrams, themes, or insight statements), and level of detail needed for stakeholder presentations. — Structured prompts reduce the back-and-forth iterations needed to get usable research insights from AI tools. [search link]</description>
+      <category>Prompts</category>
+      <source url="https://www.google.com/search?q=The+CRAFT+Framework+for+UX+Research+Synthesis">Nielsen Norman Group</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">The CRAFT Framework for UX Research Synthesis-20260311</guid>
+    </item>
+    <item>
+      <title>Evidence-Based Persona Generator Prompt</title>
+      <link>https://www.google.com/search?q=Evidence-Based+Persona+Generator+Prompt</link>
+      <description>This template walks you through inputting raw user interview data, behavioral patterns, and demographic segments to generate research-backed personas. It includes specific fields for goals, frustrations, technology comfort levels, and quotes pulled directly from your research data. — It prevents the common pitfall of AI-generated personas feeling generic by anchoring outputs in your actual research data. [search link]</description>
+      <category>Prompts</category>
+      <source url="https://www.google.com/search?q=Evidence-Based+Persona+Generator+Prompt">Smashing Magazine</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Evidence-Based Persona Generator Prompt-20260311</guid>
+    </item>
+    <item>
+      <title>Heuristic Design Critique Prompt Template</title>
+      <link>https://www.google.com/search?q=Heuristic+Design+Critique+Prompt+Template</link>
+      <description>Based on Nielsen&apos;s 10 usability heuristics, this prompt template asks AI to evaluate uploaded screenshots or described interfaces against specific criteria. It generates structured feedback with severity ratings, specific problem locations, and actionable recommendations for each violation found. — It provides a consistent, thorough critique framework when you need quick feedback outside of formal design reviews. [search link]</description>
+      <category>Prompts</category>
+      <source url="https://www.google.com/search?q=Heuristic+Design+Critique+Prompt+Template">UX Collective</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Heuristic Design Critique Prompt Template-20260311</guid>
+    </item>
+    <item>
+      <title>Usability Test Script &amp; Analysis Prompt Pack</title>
+      <link>https://www.google.com/search?q=Usability+Test+Script+%26+Analysis+Prompt+Pack</link>
+      <description>This two-part template first helps generate moderated usability test scripts with task scenarios, probing questions, and success metrics tailored to your product. The second prompt template then analyzes session notes to identify patterns, calculate task completion rates, and prioritize findings by impact. — It cuts usability test prep time significantly while ensuring you capture the right data for meaningful analysis. [search link]</description>
+      <category>Prompts</category>
+      <source url="https://www.google.com/search?q=Usability+Test+Script+%26+Analysis+Prompt+Pack">User Interviews</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Usability Test Script &amp; Analysis Prompt Pack-20260311</guid>
+    </item>
+    <item>
+      <title>2026 UX Industry Report: AI Collaboration Skills Now Required in 73% of Senior Roles</title>
+      <link>https://www.google.com/search?q=2026+UX+Industry+Report%3A+AI+Collaboration+Skills+Now+Required+in+73%25+of+Senior+Roles</link>
+      <description>Nielsen Norman Group&apos;s annual report reveals that AI collaboration has become a core competency in UX hiring. Companies are specifically seeking designers who can craft effective prompts, validate AI outputs, and design human-AI interaction patterns. — Understanding where hiring managers are focusing helps you prioritize which AI skills to develop and highlight in your portfolio. [search link]</description>
+      <category>Industry News</category>
+      <source url="https://www.google.com/search?q=2026+UX+Industry+Report%3A+AI+Collaboration+Skills+Now+Required+in+73%25+of+Senior+Roles">Nielsen Norman Group</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">2026 UX Industry Report: AI Collaboration Skills Now Required in 73% of Senior Roles-20260311</guid>
+    </item>
+    <item>
+      <title>Figma&apos;s AI Features Drive New &apos;AI Design Ops&apos; Specialty Role</title>
+      <link>https://www.linkedin.com/pulse/rise-ai-design-ops-2026-hiring-trends/</link>
+      <description>Since Figma&apos;s expanded AI toolkit launch in late 2025, a new hybrid role has emerged combining design systems management with AI workflow optimization. LinkedIn reports a 340% increase in job postings mentioning &apos;AI Design Ops&apos; since January. — Emerging role categories represent opportunities for early career positioning before the talent pool becomes saturated.</description>
+      <category>Industry News</category>
+      <source url="https://www.linkedin.com/pulse/rise-ai-design-ops-2026-hiring-trends/">LinkedIn Economic Graph</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Figma&apos;s AI Features Drive New &apos;AI Design Ops&apos; Specialty Role-20260311</guid>
+    </item>
+    <item>
+      <title>Tech Layoffs Slow as Companies Rebuild UX Teams with AI-Augmented Structure</title>
+      <link>https://www.google.com/search?q=Tech+Layoffs+Slow+as+Companies+Rebuild+UX+Teams+with+AI-Augmented+Structure</link>
+      <description>After two years of cuts, Q1 2026 shows a 28% increase in UX hiring, but with restructured teams. Companies are hiring fewer designers overall but paying 15-20% premiums for those with demonstrated AI tool proficiency. — The job market recovery favors designers who&apos;ve invested in AI upskilling, making continuous learning a career resilience strategy. [search link]</description>
+      <category>Industry News</category>
+      <source url="https://www.google.com/search?q=Tech+Layoffs+Slow+as+Companies+Rebuild+UX+Teams+with+AI-Augmented+Structure">Business Insider</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">Tech Layoffs Slow as Companies Rebuild UX Teams with AI-Augmented Structure-20260311</guid>
+    </item>
+    <item>
+      <title>UXPA Survey: 61% of Designers Report AI Changed Their Daily Workflow</title>
+      <link>https://www.google.com/search?q=UXPA+Survey%3A+61%25+of+Designers+Report+AI+Changed+Their+Daily+Workflow</link>
+      <description>The User Experience Professionals Association&apos;s member survey shows most designers now use AI for research synthesis, copy generation, and accessibility audits. However, 44% express concern about skill atrophy in areas AI now handles. — Knowing how peers are adapting helps you benchmark your own AI integration and identify skills worth maintaining versus delegating. [search link]</description>
+      <category>Industry News</category>
+      <source url="https://www.google.com/search?q=UXPA+Survey%3A+61%25+of+Designers+Report+AI+Changed+Their+Daily+Workflow">UXPA International</source>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">UXPA Survey: 61% of Designers Report AI Changed Their Daily Workflow-20260311</guid>
+    </item>
+    <item>
+      <title>XKCD #2054: Data Pipeline</title>
+      <link>https://xkcd.com/2054/</link>
+      <description>&quot;Is the pipeline literally running from your laptop?&quot; &quot;Don&apos;t be silly, my laptop disconnects far too often to host a service we rely on. It&apos;s running on my phone.&quot; — https://imgs.xkcd.com/comics/data_pipeline.png</description>
+      <category>Comic</category>
+      <enclosure url="https://imgs.xkcd.com/comics/data_pipeline.png" type="image/png" length="0"/>
+      <pubDate>Wed, 11 Mar 2026 23:52:45 +0000</pubDate>
+      <guid isPermaLink="false">xkcd-2054</guid>
+    </item>
+    
+  </channel>
+</rss>
